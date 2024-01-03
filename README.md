@@ -7,9 +7,7 @@ This is the PyTorch implementation by <a href='https://github.com/tjb-tech'>@Jia
  >*CIKM 2023*
 
 \* denotes corresponding author
-<p align="center">
-<img src="./images/STExplainer.png" alt="STExplainer" />
-</p>
+
 
 In this work, we propose a new spatio-temporal meta contrastive learning framework, called **CL4ST**, to strengthen the robustness and generalization capacity of spatio-temporal modeling. In our **CL4ST**, the meta view generator automatically customizes node- and edge-wise augmentation views for each spatio-temporal graph according to the meta-knowledge of the input graph structure. This approach not only obtains personalized augmentations for every graph but also injects spatio-temporal contextual information into the data augmentation framework. We conduct extensive experiments to evaluate the effectiveness of the **CL4ST** on spatio-temporal prediction tasks, such as traffic forecasting and crime prediction. Comparisons over different datasets show that **CL4ST** outperforms state-of-the-art baselines.
 
