@@ -2,7 +2,7 @@
 
 This is the PyTorch implementation by <a href='https://github.com/tjb-tech'>@Jiabin Tang</a> for CL4ST model proposed in this paper:
 
- >**Spatio-Temporal Meta Contrastive Learning**  
+ >**<a href='https://arxiv.org/abs/2310.17678'>Spatio-Temporal Meta Contrastive Learning</a>**  
  > Jiabin Tang, Lianghao Xia, Jie Hu, Chao Huang*\
  >*CIKM 2023*
 
